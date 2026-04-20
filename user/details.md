@@ -26,7 +26,7 @@
 |        user_type        |                             `未知`                              |  int   |
 |     show_guide_flag     |            是否在首页显示创作教程（0 为否，1 为是）             |  int   |
 |       has_signed        |                      是否签订《友好契约》                       |  bool  |
-| has_seen_primary_course |           是否上过编程猫课程（1 上过为，2 没上过为）            |  int   |
+| has_seen_primary_course |           是否上过编程猫课程（2 上过为，1 没上过为）            |  int   |
 |      author_level       |     [用户等级](https://shequ.codemao.cn/friendly_protocol)      |  int   |
 
 ### oauths
